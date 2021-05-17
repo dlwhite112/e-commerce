@@ -35,7 +35,7 @@ SO THAT my company can compete with other e-commerce companies
   
   
   ## Screenshots
-  ![Animated GIF-source](https://user-images.githubusercontent.com/74333123/118494981-56365000-b6e8-11eb-8580-558f7564e31b.gif)
+  <img width="1536" alt="Screen Shot 2021-05-17 at 8 21 24 AM" src="https://user-images.githubusercontent.com/74333123/118495651-03a96380-b6e9-11eb-82b2-c04dd62b25b2.png">
 
   
   ## Tools
