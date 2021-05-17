@@ -35,7 +35,8 @@ SO THAT my company can compete with other e-commerce companies
   
   
   ## Screenshots
-   https://media.giphy.com/media/PbmtQtHjtCrmQqZqUU/giphy.gif
+  ![Animated GIF-source](https://user-images.githubusercontent.com/74333123/118494981-56365000-b6e8-11eb-8580-558f7564e31b.gif)
+
   
   ## Tools
   * Express.js
