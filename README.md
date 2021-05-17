@@ -35,7 +35,7 @@ SO THAT my company can compete with other e-commerce companies
   
   
   ## Screenshots
-   <iframe src="https://giphy.com/embed/PbmtQtHjtCrmQqZqUU" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PbmtQtHjtCrmQqZqUU">via GIPHY</a></p>
+   https://user-images.githubusercontent.com/74333123/118494529-de682580-b6e7-11eb-8115-fac702461176.mp4
   
   ## Tools
   * Express.js
